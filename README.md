@@ -84,5 +84,3 @@ data-warehouse-project/
 ---
 
 
-[![Join](https://img.shields.io/badge/Join-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@datawithbaraa)
-
